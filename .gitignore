@@ -1,0 +1,7 @@
+csv/
+target/
+libs/mac/
+*.class
+downloads
+.settings
+.project
